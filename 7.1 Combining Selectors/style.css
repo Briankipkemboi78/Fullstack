@@ -1,0 +1,25 @@
+/* Write your code here: */
+body {
+    background: rgba(20, 29, 31, 0.758);
+}
+
+h1, h2 {
+    color: blueviolet;
+}
+
+.box > p {
+    color: firebrick;
+}
+
+.box li {
+    color: paleturquoise;
+}
+
+ul li.done {
+    color: goldenrod;
+}
+
+ul p.done {
+    font-size: large;
+    color: bisque;
+}
